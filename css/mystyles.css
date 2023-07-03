@@ -1,0 +1,23 @@
+li{
+    font-family: sans-serif;
+    font-weight: normal;
+}
+img{
+    border: 5px solid navy;
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    font-weight: normal;
+}
+h2{
+    font-weight: normal;
+}
+p{
+    font-family: sans-serif;
+    font color: darkorange;
+}
+div{
+    font-style: normal;
+}

@@ -1,0 +1,14 @@
+body{
+    background-color:cornsilk;
+}
+h1{
+    font-family: sans-serif;
+}
+nav{
+    font-family: sans-serif;
+    font color: black;
+}
+.myDiv{
+    border: 5px outset navy;
+    background-color: white;
+}
